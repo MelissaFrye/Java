@@ -12,7 +12,7 @@ IDE and version: IntelliJ IDEA 2021.1.2 (Community Edition)
 JDK: Java SE 11.0.11
 JavaFX Version: JavaFX-SDK-11.0.10
 
-Directions: Step 1: Login by entering your username ans password.
+Directions: Step 1: Login by entering your username and password.
             Step 2: Main Menu will be entered upon sucessful login. Choose to enter one of three sections by 
                     clicking labeled buttons. In Customer section add, update or delete Customer data. In 
                     Appointment section add, update, or cancel an Appointment. In Special Reports section,
